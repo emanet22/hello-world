@@ -1,4 +1,4 @@
 # hello-world
 Fist step
 
-First using of Github!
+Second using of Github!
